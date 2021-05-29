@@ -1,3 +1,11 @@
+# Deep Learning Nanodegree
+
+I will use this repo to add my project solutions as I progress in my nanodegree.
+
+# Finished projects
+* [Project 1. Predicting Bike-Sharing Patterns](project-bikesharing/Predicting_bike_sharing_data.ipynb)
+
+
 # Deep Learning (PyTorch) - ND101 v7
 
 This repository contains material related to Udacity's [Deep Learning v7 Nanodegree program](https://www.udacity.com/course/deep-learning-nanodegree--nd101). It consists of a bunch of tutorial notebooks for various deep learning topics. In most cases, the notebooks lead you through implementing models such as convolutional networks, recurrent networks, and GANs. There are other topics covered such as weight initialization and batch normalization.
