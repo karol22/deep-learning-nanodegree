@@ -4,7 +4,7 @@ I will use this repo to add my project solutions as I progress in my nanodegree.
 
 # Finished projects
 * [Project 1. Predicting Bike-Sharing Patterns](project-bikesharing/Predicting_bike_sharing_data.ipynb)
-
+* [Project 2. Dog-Breed Classifier](project-dog-classification/dog_app_solution.ipynb)
 
 # Deep Learning (PyTorch) - ND101 v7
 
